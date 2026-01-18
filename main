@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>TROPIS XI – International Symposium on Ship Construction in Antiquity</title>
+<meta name="description" content="TROPIS XI is an international symposium dedicated to the study of ship construction and nautical technologies in antiquity." />
+<style>
+body {font-family: Arial, Helvetica, sans-serif; margin: 0; line-height: 1.6; color: #1f2937;}
+header {background: #0f172a; color: #fff; padding: 3rem 1.5rem;}
+header h1 {margin: 0; font-size: 2.5rem;}
+header p {max-width: 720px; font-size: 1.1rem;}
+nav {background: #020617; padding: 0.75rem 1.5rem;}
+nav a {color: #e5e7eb; margin-right: 1rem; text-decoration: none; font-size: 0.95rem;}
+nav a:hover {text-decoration: underline;}
+section {padding: 3rem 1.5rem; max-width: 960px; margin: auto;}
+section h2 {color: #0f172a; margin-bottom: 1rem;}
+ul {padding-left: 1.2rem;}
+footer {background: #020617; color: #9ca3af; padding: 2rem 1.5rem; font-size: 0.9rem;}
+.highlight {background: #f8fafc; border-left: 4px solid #0f172a; padding: 1rem; margin: 1.5rem 0;}
+</style>
+</head>
+<body>
+
+
+<header>
+<h1>TROPIS XI</h1>
+<p>International Symposium on Ship Construction in Antiquity</p>
+</header>
+
+
+<nav>
+<a href="#about">About</a>
+<a href="#history">Continuity</a>
+<a href="#scope">Scope</a>
+<a href="#publication">Publication</a>
+<a href="#contact">Contact</a>
+</nav>
+
+
+<section id="about">
+<h2>About TROPIS XI</h2>
+<p><strong>TROPIS XI</strong> is an international academic symposium dedicated to the study of ship construction and nautical technologies in antiquity. It brings together researchers from maritime archaeology, classical archaeology, ancient history, naval architecture, and related disciplines.</p>
+<p>The name <em>Tropis</em> derives from the Ancient Greek term <strong>τροπίς</strong>, meaning the keel—the principal structural element of a ship—symbolizing the foundational role of ship construction studies within maritime archaeology.</p>
+</section>
+
+
+<section id="history">
+<h2>Historical Background and Continuity</h2>
+<p>The TROPIS symposia were initiated in 1985 as a specialized international forum on ancient shipbuilding traditions and construction techniques.</p>
+<div class="highlight">
+<p>Although the symposia known as TROPIS VIII–X were duly held, their proceedings were not published. In order to respect the historical continuity of the series, the present meeting is designated as <strong>TROPIS XI</strong>.</p>
+</div>
+<p>TROPIS XI represents a continuation of this long-standing scholarly tradition rather than a new or separate initiative.</p>
+</section>
+
+
+<section id="scope">
+<h2>Academic Scope</h2>
+<ul>
+<li>Ancient shipbuilding techniques and traditions</li>
+<li>Hull construction methods and structural analysis</li>
+<li>Nautical terminology and technical language</li>
+<li>Shipwreck archaeology</li>
+<li>Experimental archaeology and reconstructions</li>
+<li>Regional and chronological perspectives</li>
+</ul>
+</section>
+
+
+<section id="publication">
+<h2>Publication Policy</h2>
+<p>A central objective of TROPIS XI is the timely publication of peer-reviewed proceedings. This commitment aims to reinforce the academic value of the series and to address publication gaps that occurred in previous phases.</p>
+</section>
+
+
+<section id="contact">
+<h2>Contact</h2>
+<p>For academic inquiries, institutional cooperation, or participation details, please contact:</p>
+<p><strong>Email:</strong> info@tropisxi.org<br />
+</html>
